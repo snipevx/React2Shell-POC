@@ -1,4 +1,4 @@
-This Proof of Concept (PoC) for CVE-2025-55182 (React2Shell) vulnerability has been developed strictly for educational and research purposes only.
+This Proof of Concept (PoC) for React2Shell (CVE-2025-55182) vulnerability has been developed strictly for educational and research purposes only.
 
 It is intended to demonstrate the existence and potential impact of a specific security vulnerability in a controlled, authorized, and non-production environment.
 
